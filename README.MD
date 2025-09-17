@@ -25,7 +25,7 @@ La carpeta principal contiene cuatro notebooks:
 <br>  
 
 ## MEJORAS FUTURAS  
-En el futuro usaremos herramientas nuevas para lograr un análisis más completo, probar otros algoritmos de machine learning y evaluar distintas métricas para mejorar las predicciones.
+En el futuro usaremos herramientas nuevas para lograr un análisis más completo, probar otros algoritmos de machine learning y evaluar distintas métricas para mejorar las predicciones.  
 <br>  
 
 ## REQUERIMIENTOS  
@@ -38,6 +38,7 @@ El análisis se realiza en Jupyter Notebook utilizando el archivo salud_mental.c
 •	scikit-learn  
 •	mlxtend  
 •	yellowbrick  
+
 
 
 
