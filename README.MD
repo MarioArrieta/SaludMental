@@ -9,7 +9,7 @@
 <br>  
 
 ## OBJETIVO 
-Analizar datos de salud mental con Python mediante visualizaciones y la construcción de diferentes modelos para comprender mejor las relaciones entre las variables y tomar decisiones basadas en las conclusiones.  
+Analizar datos de salud mental con Python mediante visualizaciones y la construcción de diferentes modelos, con el objetivo de comprender mejor las relaciones entre las variables y generar información que permita a las empresas mejorar la productividad, al mismo tiempo que apoya a los empleados en la gestión de su bienestar emocional.
 <br>  
 
 ## CONTENIDO
@@ -24,8 +24,11 @@ La carpeta principal contiene cuatro notebooks:
 **ProyectoDS_Arrieta(K-Means)**: Agrupamiento para identificar grupos según salud mental, estrés y características similares.  
 <br>  
 
-## REQUERIMIENTOS
+## MEJORAS FUTURAS  
+Aunque el proyecto se desarrolló con las herramientas proporcionadas, en el futuro se podrían probar otros algoritmos de machine learning para un análisis más completo.  
+<br>  
 
+## REQUERIMIENTOS  
 El análisis se realiza en Jupyter Notebook utilizando el archivo salud_mental.csv. Asegúrate de que el archivo esté en la carpeta correcta o modifica la ruta en el notebook según corresponda. Este proyecto utiliza las siguientes librerías de Python, por lo que es importante tenerlas instaladas:  
 
 •	pandas  
@@ -35,6 +38,7 @@ El análisis se realiza en Jupyter Notebook utilizando el archivo salud_mental.c
 •	scikit-learn  
 •	mlxtend  
 •	yellowbrick  
+
 
 
 
